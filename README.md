@@ -246,8 +246,8 @@ Designing, building, and shipping production web applications end to end for rea
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Marshmellow31&show_icons=true&theme=midnight-purple&hide_border=true&bg_color=0D1117&title_color=8B5CF6&icon_color=7C3AED&count_private=true" height="180" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Marshmellow31&layout=compact&theme=midnight-purple&hide_border=true&bg_color=0D1117&title_color=8B5CF6" height="180" />
+<img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Marshmellow31&show_icons=true&theme=midnight-purple&hide_border=true&bg_color=0D1117&title_color=8B5CF6&icon_color=7C3AED&count_private=true" height="180" />
+<img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Marshmellow31&layout=compact&theme=midnight-purple&hide_border=true&bg_color=0D1117&title_color=8B5CF6" height="180" />
 
 <br/><br/>
 
@@ -257,21 +257,11 @@ Designing, building, and shipping production web applications end to end for rea
 
 ---
 
-## 🏅 GitHub Trophies
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=Marshmellow31&theme=dracula&no-frame=true&no-bg=true&row=1&column=7&margin-w=8" width="100%" />
-
-</div>
-
----
-
 ## 📈 Contribution Activity
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Marshmellow31&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=8B5CF6&line=7C3AED&point=A78BFA&area=true&area_color=4F46E5" width="100%" />
+<img src="https://ghchart.rshah.org/8B5CF6/Marshmellow31" alt="Contribution Graph of Marshmellow31" width="100%" />
 
 </div>
 
