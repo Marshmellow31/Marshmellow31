@@ -209,34 +209,14 @@ Designing, building, and shipping production web applications end to end for rea
 
 ---
 
-## 📜 Certifications
-
-<div align="center">
-
-### AWS
-<img src="https://img.shields.io/badge/AWS-Cloud%20Foundations-8B5CF6?style=for-the-badge&logo=amazonwebservices&logoColor=white&labelColor=1a1a2e" />
-
-### Oracle
-<img src="https://img.shields.io/badge/Oracle-Database%20%26%20SQL-7C3AED?style=for-the-badge&logo=oracle&logoColor=white&labelColor=1a1a2e" />
-
-### NPTEL
-<img src="https://img.shields.io/badge/NPTEL-Data%20Structures%20%26%20Algorithms-6366F1?style=for-the-badge&logo=coursera&logoColor=white&labelColor=1a1a2e" />
-
-### Cisco
-<img src="https://img.shields.io/badge/Cisco-Networking%20Essentials-4F46E5?style=for-the-badge&logo=cisco&logoColor=white&labelColor=1a1a2e" />
-
-</div>
-
----
-
 ## ⚔️ Coding Profiles
 
 <div align="center">
 
-<a href="https://leetcode.com/u/Marshmellow31/"><img src="https://img.shields.io/badge/LeetCode-8B5CF6?style=for-the-badge&logo=leetcode&logoColor=white&labelColor=1a1a2e" height="40" /></a>&nbsp;
+<a href="https://leetcode.com/u/Harshil3105/"><img src="https://img.shields.io/badge/LeetCode-8B5CF6?style=for-the-badge&logo=leetcode&logoColor=white&labelColor=1a1a2e" height="40" /></a>&nbsp;
 <a href="https://www.geeksforgeeks.org/user/marshmellow31/"><img src="https://img.shields.io/badge/GeeksforGeeks-7C3AED?style=for-the-badge&logo=geeksforgeeks&logoColor=white&labelColor=1a1a2e" height="40" /></a>&nbsp;
-<a href="https://www.hackerrank.com/profile/Marshmellow31"><img src="https://img.shields.io/badge/HackerRank-6366F1?style=for-the-badge&logo=hackerrank&logoColor=white&labelColor=1a1a2e" height="40" /></a>&nbsp;
-<a href="https://www.codechef.com/users/marshmellow31"><img src="https://img.shields.io/badge/CodeChef-4F46E5?style=for-the-badge&logo=codechef&logoColor=white&labelColor=1a1a2e" height="40" /></a>
+<a href="https://www.hackerrank.com/profile/h2024110431"><img src="https://img.shields.io/badge/HackerRank-6366F1?style=for-the-badge&logo=hackerrank&logoColor=white&labelColor=1a1a2e" height="40" /></a>&nbsp;
+<a href="https://www.codechef.com/users/harshil3105"><img src="https://img.shields.io/badge/CodeChef-4F46E5?style=for-the-badge&logo=codechef&logoColor=white&labelColor=1a1a2e" height="40" /></a>
 
 </div>
 
