@@ -1,8 +1,6 @@
 <div align="center">
 
-# Harshil Patel
-
-### Full-stack product engineer · CSE @ IIIT Vadodara · Exploring AI/ML
+<img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=gradient&customColorList=6,11,20&text=Harshil%20Patel&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Full-Stack%20Product%20Engineer%20%E2%80%A2%20CSE%20%40%20IIIT%20Vadodara%20%E2%80%A2%20Exploring%20AI%2FML&descSize=18&descAlignY=55" alt="Harshil Patel — Full-Stack Product Engineer" width="100%" />
 
 I build secure, responsive products that connect thoughtful interfaces with reliable application architecture.
 
@@ -17,10 +15,6 @@ I build secure, responsive products that connect thoughtful interfaces with reli
 </div>
 
 ## Portfolio
-
-<a href="https://www.harshilpatel.co.in/">
-  <img src="https://www.harshilpatel.co.in/og-image.jpg" alt="Harshil Patel's portfolio website — selected engineering work and case studies" width="100%" />
-</a>
 
 <div align="center">
 
