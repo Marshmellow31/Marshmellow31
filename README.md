@@ -6,12 +6,29 @@
 
 I build secure, responsive products that connect thoughtful interfaces with reliable application architecture.
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-7C3AED?style=for-the-badge&logo=vercel&logoColor=white)](https://www.harshilpatel.co.in/)
+[![Explore my portfolio](https://img.shields.io/badge/Explore_My_Portfolio-harshilpatel.co.in-7C3AED?style=for-the-badge&logo=vercel&logoColor=white)](https://www.harshilpatel.co.in/)
+
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/harshil-patel-5a7373333/)
 [![Email](https://img.shields.io/badge/Email-Say_Hello-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:1080patelharshil@gmail.com)
 
 ![Bharuch, India](https://img.shields.io/badge/Bharuch%2C_Gujarat-India-475569?style=flat-square&logo=googlemaps&logoColor=white)
 ![Open to opportunities](https://img.shields.io/badge/Open_to-SDE_Internships_%26_Collaboration-16A34A?style=flat-square)
+
+</div>
+
+## Portfolio
+
+<a href="https://www.harshilpatel.co.in/">
+  <img src="https://www.harshilpatel.co.in/og-image.jpg" alt="Harshil Patel's portfolio website — selected engineering work and case studies" width="100%" />
+</a>
+
+<div align="center">
+
+### [www.harshilpatel.co.in](https://www.harshilpatel.co.in/)
+
+Explore detailed case studies across production web products, client work, mobile experiences, applied AI, and Counter-UAS research.
+
+[![View portfolio case studies](https://img.shields.io/badge/View_Portfolio_Case_Studies-Open_Website-7C3AED?style=for-the-badge&logo=safari&logoColor=white)](https://www.harshilpatel.co.in/)
 
 </div>
 
@@ -33,12 +50,6 @@ I'm a Computer Science & Engineering undergraduate at **IIIT Vadodara** (B.Tech,
 | **Ascend** | Gamified productivity PWA with XP and levels, Pomodoro sessions, long-horizon activity heatmaps, and keyboard-first workflows. | Svelte 5, Vite, Firebase, PWA | [Repository](https://github.com/Marshmellow31/Ascend) · [Live](https://planner-app-for-iphone.vercel.app/) |
 | **Bhumi Developers** | Production real-estate website with project showcases, responsive galleries, downloadable brochures, and polished motion. | Next.js, TypeScript, React, Framer Motion | [Repository](https://github.com/Marshmellow31/bhumi-developers) · [Live](https://www.bhumidevelopers.co.in/) |
 | **ML from Scratch** | A hands-on machine-learning learning repository covering EDA, preprocessing, model training, evaluation, and end-to-end notebook execution. | Python, pandas, scikit-learn, Jupyter | [Repository](https://github.com/Marshmellow31/ml-from-scratch) |
-
-<div align="center">
-
-[**Explore all case studies →**](https://www.harshilpatel.co.in/)
-
-</div>
 
 ## Experience
 
