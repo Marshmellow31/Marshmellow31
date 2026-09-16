@@ -1,15 +1,16 @@
-<div align="center">
+﻿<div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=gradient&customColorList=6,11,20&text=Harshil%20Patel&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Full-Stack%20Product%20Engineer%20%E2%80%A2%20CSE%20%40%20IIIT%20Vadodara&descSize=18&descAlignY=55" alt="Harshil Patel Banner" width="100%" />
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=19&duration=3000&pause=1000&color=A78BFA&center=true&vCenter=true&width=560&lines=Full-Stack+Product+Engineer;Next.js+%2B+TypeScript+%2B+Firebase+Specialist;Building+Scalable+Web+Apps+%26+PWAs;Simulation-Led+Counter-UAS+Researcher" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=19&duration=3000&pause=1000&color=A78BFA&center=true&vCenter=true&width=560&lines=Full-Stack+Product+Engineer;React+19+%2B+Jetpack+Compose+%2B+Firebase;Building+paymatrix+%26+Scalable+Cloud+Apps;Simulation-Led+Counter-UAS+Researcher" alt="Typing SVG" />
 </p>
 
 I engineer responsive, secure digital products bridging intuitive user interfaces with resilient architecture.
 
 <br/>
 
+[![Flagship App](https://img.shields.io/badge/Flagship_Product-paymatrixapp.online-0052FF?style=for-the-badge&logo=googlechrome&logoColor=white)](https://paymatrixapp.online/)
 [![Portfolio](https://img.shields.io/badge/Portfolio-harshilpatel.co.in-7C3AED?style=for-the-badge&logo=safari&logoColor=white)](https://www.harshilpatel.co.in/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/harshil-patel-5a7373333/)
 [![Email](https://img.shields.io/badge/Email-Say_Hello-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:1080patelharshil@gmail.com)
@@ -27,21 +28,56 @@ I engineer responsive, secure digital products bridging intuitive user interface
 
 ### 🧑‍💻 About Me
 
-I am a Computer Science & Engineering undergraduate at **IIIT Vadodara** (2024–2028) with a focus on end-to-end web product engineering, cloud backends, and algorithmic problem-solving.
+I am a Computer Science & Engineering undergraduate at **IIIT Vadodara** (2024–2028) with a focus on end-to-end software product engineering, cloud backends, and algorithmic problem-solving.
 
-* 🚀 **Full-Stack Engineering:** Specializing in React, Next.js, and Svelte ecosystems, building high-performance SPAs/PWAs with real-time synchronization, strict schema validation, and offline-first resilience.
-* 🛡️ **Applied AI & Research:** Integrating multimodal LLMs (Gemini Vision OCR) into real-world tools, and conducting simulation-driven Counter-UAS research on GNSS spoofing detection and collision-conscious drone clearance.
+* 🚀 **Full-Stack & Mobile Engineering:** Specializing in React 19, TypeScript, and native Android (Kotlin + Jetpack Compose), building high-performance SPAs/PWAs and mobile apps with real-time sync, strict schema validation, and offline resilience.
+* 🛡️ **Applied AI & Research:** Integrating multimodal LLMs (Gemini Vision OCR) into production tooling, and conducting simulation-driven Counter-UAS research on GNSS spoofing detection and collision-conscious drone clearance.
 * 🧩 **Algorithmic Foundations:** Practicing data structures and algorithms in **C++**, focusing on systematic pattern recognition, complexity bounds, and clean implementation.
 
 ---
 
-### 🌟 Featured Projects
+### 💎 Flagship Product
+
+<table width="100%">
+  <tr>
+    <td width="100%" valign="top">
+      <h3>💸 <a href="https://github.com/Marshmellow31/paymatrix-showcase">paymatrix</a> — Cross-Platform Group Expense Platform</h3>
+      <p><b>Commercial-grade shared-expense platform</b> built for trips, flatmates, and teams. Engineered from the ground up to solve complex real-world bill sharing with zero financial drift and seamless cross-platform synchronization.</p>
+      <ul>
+        <li><b>Zero-Drift Financial Engine</b>: Strictly computed in <b>integer paise</b> (<code>amountPaise</code>) with deterministic remainder distribution ($R = \text{total} \pmod N$), completely eliminating floating-point rounding errors.</li>
+        <li><b>Multi-Payer Transactions</b>: Enables multiple members to contribute arbitrary amounts to a single shared expense, supporting equal, exact paise, percentage, and weighted share splits.</li>
+        <li><b>Greedy Debt Minimization</b>: Reduces cyclic group debts to at most $N-1$ optimal bilateral settlements via a bipartite minimum-cash-flow graph reducer.</li>
+        <li><b>Cross-Platform Parity</b>: High-performance <b>React 19 PWA</b> paired with a native <b>Android app (Kotlin + Jetpack Compose)</b> featuring Glance home-screen balance widgets and Biometric authentication.</li>
+        <li><b>AI Bill Scanner & UPI</b>: Automated receipt line-item extraction via <b>Google Gemini Vision</b> and one-tap UPI deep-linking with strict user-confirmed settlement boundaries.</li>
+      </ul>
+      <p>
+        <img src="https://img.shields.io/badge/React_19-20232A?style=flat-square&logo=react&logoColor=61DAFB" alt="React 19" />
+        <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white" alt="Kotlin" />
+        <img src="https://img.shields.io/badge/Jetpack_Compose-4285F4?style=flat-square&logo=android&logoColor=white" alt="Compose" />
+        <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TS" />
+        <img src="https://img.shields.io/badge/Redux_Toolkit-764ABC?style=flat-square&logo=redux&logoColor=white" alt="Redux" />
+        <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black" alt="Firebase" />
+        <img src="https://img.shields.io/badge/Gemini_Vision-8E75C2?style=flat-square&logo=googlegemini&logoColor=white" alt="Gemini" />
+        <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white" alt="Tailwind" />
+      </p>
+      <p>
+        <a href="https://github.com/Marshmellow31/paymatrix-showcase"><b>View Architecture & Showcase →</b></a> &nbsp;|&nbsp; 
+        <a href="https://paymatrixapp.online/"><b>Live Web App (paymatrixapp.online) →</b></a> &nbsp;|&nbsp;
+        <a href="https://github.com/Marshmellow31/paymatrix-showcase/releases/latest"><b>Download Android APK →</b></a>
+      </p>
+    </td>
+  </tr>
+</table>
+
+---
+
+### 🌟 Featured Systems & Applications
 
 <table>
   <tr>
     <td width="50%" valign="top">
       <h3>🏆 <a href="https://github.com/Marshmellow31/Podium">Podium</a></h3>
-      <p><b>Multi-tenant challenge & contest management platform</b> with configurable forms, role-based access control, multi-criteria judging workflows, live leaderboards, automated certificate generation, audit trails, and offline-ready PWA support.</p>
+      <p><b>Multi-tenant challenge & contest management platform</b> with configurable forms (24 field types), role-based access control (41 permissions), multi-criteria judging rubrics, live leaderboards, automated certificate generation, and offline-ready PWA support.</p>
       <p>
         <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TS" />
         <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" alt="React" />
@@ -55,25 +91,8 @@ I am a Computer Science & Engineering undergraduate at **IIIT Vadodara** (2024�
       </p>
     </td>
     <td width="50%" valign="top">
-      <h3>💸 <a href="https://github.com/Marshmellow31/PayMatrix">PayMatrix</a></h3>
-      <p><b>Group expense management PWA</b> featuring automated receipt bill scanning powered by Gemini Vision OCR, itemized splitting, real-time shared ledger sync, debt graph simplification, and native one-tap UPI settlement links.</p>
-      <p>
-        <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" alt="React" />
-        <img src="https://img.shields.io/badge/Gemini_Vision-8E75C2?style=flat-square&logo=googlegemini&logoColor=white" alt="Gemini" />
-        <img src="https://img.shields.io/badge/Redux_Toolkit-764ABC?style=flat-square&logo=redux&logoColor=white" alt="Redux" />
-        <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black" alt="Firebase" />
-        <img src="https://img.shields.io/badge/UPI_Settlement-16A34A?style=flat-square" alt="UPI" />
-      </p>
-      <p>
-        <a href="https://github.com/Marshmellow31/PayMatrix"><b>View Code →</b></a> &nbsp;|&nbsp; 
-        <a href="https://pay-matrix.vercel.app/"><b>Live Demo →</b></a>
-      </p>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
       <h3>⏱️ <a href="https://github.com/Marshmellow31/Ascend">Ascend</a></h3>
-      <p><b>Gamified productivity & habit tracker</b> built with Svelte 5. Features RPG-style level & XP progression, Pomodoro focus sessions, long-horizon GitHub-style activity heatmaps, keyboard-driven navigation, and offline PWA capability.</p>
+      <p><b>Gamified productivity & habit tracker</b> built with Svelte 5 runes. Features RPG-style level & XP progression, Pomodoro focus sessions, long-horizon GitHub-style activity heatmaps, keyboard-driven command palette, and offline PWA capability.</p>
       <p>
         <img src="https://img.shields.io/badge/Svelte_5-FF3E00?style=flat-square&logo=svelte&logoColor=white" alt="Svelte" />
         <img src="https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white" alt="Vite" />
@@ -83,6 +102,21 @@ I am a Computer Science & Engineering undergraduate at **IIIT Vadodara** (2024�
       <p>
         <a href="https://github.com/Marshmellow31/Ascend"><b>View Code →</b></a> &nbsp;|&nbsp; 
         <a href="https://planner-app-for-iphone.vercel.app/"><b>Live Demo →</b></a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>❄️ <a href="https://github.com/Marshmellow31/Smart-AC-Dashboard">Smart AC Automation</a></h3>
+      <p><b>IoT split AC retrofit & climate automation system</b>. Features an ESP32 hardware controller running reverse-engineered IR protocols, serving an on-device vanilla JS dashboard from flash with sleep curves, energy monitoring, and voice integrations.</p>
+      <p>
+        <img src="https://img.shields.io/badge/ESP32-E7352C?style=flat-square&logo=espressif&logoColor=white" alt="ESP32" />
+        <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=c%2B%2B&logoColor=white" alt="C++" />
+        <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JS" />
+        <img src="https://img.shields.io/badge/IoT-000000?style=flat-square" alt="IoT" />
+      </p>
+      <p>
+        <a href="https://github.com/Marshmellow31/Smart-AC-Dashboard"><b>View Code →</b></a>
       </p>
     </td>
     <td width="50%" valign="top">
