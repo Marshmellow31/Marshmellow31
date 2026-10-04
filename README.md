@@ -7,7 +7,7 @@
 React · TypeScript · Kotlin · Firebase<br/>
 Open-source contributor to **Grafana**, **Actual Budget**, and **LocalSend's website**.
 
-[![paymatrix](https://img.shields.io/badge/paymatrix-0052FF?style=for-the-badge&logo=googlechrome&logoColor=white)](https://paymatrixapp.online/)
+<a href="https://paymatrixapp.online/"><img src="assets/logos/paymatrix.png" width="28" height="28" alt="paymatrix logo" align="absmiddle" /> <b>paymatrix</b></a> &nbsp;
 [![Portfolio](https://img.shields.io/badge/Portfolio-7C3AED?style=for-the-badge&logo=safari&logoColor=white)](https://www.harshilpatel.co.in/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/harshil-patel-5a7373333/)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:1080patelharshil@gmail.com)
@@ -27,7 +27,7 @@ Features and fixes accepted into established open-source codebases.
 <table width="100%">
   <tr>
     <td width="50%" valign="top">
-      <a href="https://github.com/grafana/grafana/pull/133167"><img src="https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white" alt="Grafana" /></a>
+      <h3><a href="https://github.com/grafana/grafana/pull/133167"><img src="assets/logos/grafana.svg" width="32" height="32" alt="Grafana logo" align="absmiddle" /> &nbsp;Grafana</a></h3>
       <h3>Copy transformation debug data</h3>
       <p>Added input and output copy actions to both transformation debug views so dashboard authors can inspect data in external tools.</p>
       <p><b>Engineering:</b> Circular-safe JSON serialization, accessible controls, and clipboard regression tests.</p>
@@ -35,7 +35,7 @@ Features and fixes accepted into established open-source codebases.
       <a href="https://github.com/grafana/grafana/pull/133167"><b>View merged PR #133167 →</b></a>
     </td>
     <td width="50%" valign="top">
-      <a href="https://github.com/actualbudget/actual/pull/8963"><img src="https://img.shields.io/badge/Actual_Budget-5B5BD6?style=for-the-badge" alt="Actual Budget" /></a>
+      <h3><a href="https://github.com/actualbudget/actual/pull/8963"><img src="assets/logos/actual-budget.png" width="32" height="32" alt="Actual Budget logo" align="absmiddle" /> &nbsp;Actual Budget</a></h3>
       <h3>Recover from missing bank-sync credentials</h3>
       <p>Replaced a generic GoCardless sync error with a clear explanation and a Configure action to help users restore bank syncing.</p>
       <p><b>Engineering:</b> Typed errors across server, core, and UI, with regression tests at each layer.</p>
@@ -45,7 +45,7 @@ Features and fixes accepted into established open-source codebases.
   </tr>
   <tr>
     <td colspan="2">
-      <h3>LocalSend website · Georgian locale correction</h3>
+      <h3><a href="https://github.com/localsend/website/pull/186"><img src="assets/logos/localsend.png" width="32" height="32" alt="LocalSend logo" align="absmiddle" /> &nbsp;LocalSend website</a> · Georgian locale correction</h3>
       <p>Corrected <code>ka-IN</code> to <code>ka-GE</code> across HTML, Open Graph, hreflang, and sitemap metadata.</p>
       <p><img src="https://img.shields.io/badge/Merged-8250DF?style=flat-square&logo=git&logoColor=white" alt="Merged" /> <sub>20 Sep 2026 · IST</sub> &nbsp;·&nbsp; <a href="https://github.com/localsend/website/pull/186"><b>View merged PR #186 →</b></a></p>
     </td>
@@ -71,7 +71,7 @@ I am a Computer Science & Engineering undergraduate at **IIIT Vadodara** (2024�
 <table width="100%">
   <tr>
     <td width="100%" valign="top">
-      <h3>💸 <a href="https://github.com/Marshmellow31/paymatrix-showcase">paymatrix</a> — Cross-Platform Group Expense Platform</h3>
+      <h3><img src="assets/logos/paymatrix.png" width="32" height="32" alt="paymatrix logo" align="absmiddle" /> <a href="https://github.com/Marshmellow31/paymatrix-showcase">paymatrix</a> — Cross-Platform Group Expense Platform</h3>
       <p><b>Commercial-grade shared-expense platform</b> built for trips, flatmates, and teams. Engineered from the ground up to solve complex real-world bill sharing with zero financial drift and seamless cross-platform synchronization.</p>
       <ul>
         <li><b>Zero-Drift Financial Engine</b>: Strictly computed in <b>integer paise</b> (<code>amountPaise</code>) with deterministic remainder distribution ($R = \text{total} \pmod N$), completely eliminating floating-point rounding errors.</li>
