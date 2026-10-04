@@ -1,28 +1,58 @@
-﻿<div align="center">
+<div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=gradient&customColorList=6,11,20&text=Harshil%20Patel&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Full-Stack%20Product%20Engineer%20%E2%80%A2%20CSE%20%40%20IIIT%20Vadodara&descSize=18&descAlignY=55" alt="Harshil Patel Banner" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&height=170&color=gradient&customColorList=6,11,20&text=Harshil%20Patel&fontSize=44&fontColor=ffffff&fontAlignY=35&desc=Full-Stack%20%26%20Android%20Engineer%20%E2%80%A2%20IIIT%20Vadodara&descSize=16&descAlignY=58" alt="Harshil Patel — Full-Stack and Android Engineer, IIIT Vadodara" width="100%" />
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=19&duration=3000&pause=1000&color=A78BFA&center=true&vCenter=true&width=560&lines=Full-Stack+Product+Engineer;React+19+%2B+Jetpack+Compose+%2B+Firebase;Building+paymatrix+%26+Scalable+Cloud+Apps;Simulation-Led+Counter-UAS+Researcher" alt="Typing SVG" />
-</p>
+### Building products. Contributing upstream.
 
-I engineer responsive, secure digital products bridging intuitive user interfaces with resilient architecture.
+React · TypeScript · Kotlin · Firebase<br/>
+Open-source contributor to **Grafana**, **Actual Budget**, and **LocalSend's website**.
 
-<br/>
+[![paymatrix](https://img.shields.io/badge/paymatrix-0052FF?style=for-the-badge&logo=googlechrome&logoColor=white)](https://paymatrixapp.online/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-7C3AED?style=for-the-badge&logo=safari&logoColor=white)](https://www.harshilpatel.co.in/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/harshil-patel-5a7373333/)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:1080patelharshil@gmail.com)
 
-[![Flagship App](https://img.shields.io/badge/Flagship_Product-paymatrixapp.online-0052FF?style=for-the-badge&logo=googlechrome&logoColor=white)](https://paymatrixapp.online/)
-[![Portfolio](https://img.shields.io/badge/Portfolio-harshilpatel.co.in-7C3AED?style=for-the-badge&logo=safari&logoColor=white)](https://www.harshilpatel.co.in/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/harshil-patel-5a7373333/)
-[![Email](https://img.shields.io/badge/Email-Say_Hello-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:1080patelharshil@gmail.com)
-[![Profile Views](https://komarev.com/ghpvc/?username=Marshmellow31&color=7C3AED&style=for-the-badge&label=Profile+Views)](https://github.com/Marshmellow31)
-
-<br/>
-
-![Location](https://img.shields.io/badge/Location-Bharuch%2C_Gujarat%2C_India-1E293B?style=flat-square&logo=googlemaps&logoColor=white)
-![Education](https://img.shields.io/badge/Education-B.Tech_CSE_%40_IIIT_Vadodara_(2028)-1E293B?style=flat-square&logo=academia&logoColor=white)
-![Status](https://img.shields.io/badge/Status-Open_to_SDE_Internships_%26_Collaboration-16A34A?style=flat-square)
+<sub>B.Tech CSE · Class of 2028 · Bharuch, India</sub><br/>
+<strong>Open to SDE internships &amp; collaboration</strong>
 
 </div>
+
+---
+
+## Selected Open Source Contributions
+
+**3 merged pull requests · 3 upstream projects**<br/>
+Features and fixes accepted into established open-source codebases.
+
+<table width="100%">
+  <tr>
+    <td width="50%" valign="top">
+      <a href="https://github.com/grafana/grafana/pull/133167"><img src="https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white" alt="Grafana" /></a>
+      <h3>Copy transformation debug data</h3>
+      <p>Added input and output copy actions to both transformation debug views so dashboard authors can inspect data in external tools.</p>
+      <p><b>Engineering:</b> Circular-safe JSON serialization, accessible controls, and clipboard regression tests.</p>
+      <p><img src="https://img.shields.io/badge/Merged-8250DF?style=flat-square&logo=git&logoColor=white" alt="Merged" /> <sub>23 Sep 2026 · IST</sub></p>
+      <a href="https://github.com/grafana/grafana/pull/133167"><b>View merged PR #133167 →</b></a>
+    </td>
+    <td width="50%" valign="top">
+      <a href="https://github.com/actualbudget/actual/pull/8963"><img src="https://img.shields.io/badge/Actual_Budget-5B5BD6?style=for-the-badge" alt="Actual Budget" /></a>
+      <h3>Recover from missing bank-sync credentials</h3>
+      <p>Replaced a generic GoCardless sync error with a clear explanation and a Configure action to help users restore bank syncing.</p>
+      <p><b>Engineering:</b> Typed errors across server, core, and UI, with regression tests at each layer.</p>
+      <p><img src="https://img.shields.io/badge/Merged-8250DF?style=flat-square&logo=git&logoColor=white" alt="Merged" /> <sub>4 Oct 2026 · IST</sub></p>
+      <a href="https://github.com/actualbudget/actual/pull/8963"><b>View merged PR #8963 →</b></a>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">
+      <h3>LocalSend website · Georgian locale correction</h3>
+      <p>Corrected <code>ka-IN</code> to <code>ka-GE</code> across HTML, Open Graph, hreflang, and sitemap metadata.</p>
+      <p><img src="https://img.shields.io/badge/Merged-8250DF?style=flat-square&logo=git&logoColor=white" alt="Merged" /> <sub>20 Sep 2026 · IST</sub> &nbsp;·&nbsp; <a href="https://github.com/localsend/website/pull/186"><b>View merged PR #186 →</b></a></p>
+    </td>
+  </tr>
+</table>
+
+[Browse my merged upstream pull requests →](https://github.com/pulls?q=is%3Apr+author%3AMarshmellow31+is%3Amerged+-user%3AMarshmellow31)
 
 ---
 
