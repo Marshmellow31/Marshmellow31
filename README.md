@@ -7,10 +7,12 @@
 React · TypeScript · Kotlin · Firebase<br/>
 Open-source contributor to **Grafana**, **Actual Budget**, and **LocalSend's website**.
 
-<a href="https://paymatrixapp.online/"><img src="assets/logos/paymatrix.png" width="28" height="28" alt="paymatrix logo" align="absmiddle" /> <b>paymatrix</b></a> &nbsp;
-[![Portfolio](https://img.shields.io/badge/Portfolio-7C3AED?style=for-the-badge&logo=safari&logoColor=white)](https://www.harshilpatel.co.in/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/harshil-patel-5a7373333/)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:1080patelharshil@gmail.com)
+<p align="center">
+  <a href="https://paymatrixapp.online/"><img src="assets/paymatrix-link.svg" height="28" alt="paymatrix" /></a>
+  <a href="https://www.harshilpatel.co.in/"><img src="https://img.shields.io/badge/Portfolio-7C3AED?style=for-the-badge&amp;logo=safari&amp;logoColor=white" height="28" alt="Portfolio" /></a>
+  <a href="https://www.linkedin.com/in/harshil-patel-5a7373333/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&amp;logo=linkedin&amp;logoColor=white" height="28" alt="LinkedIn" /></a>
+  <a href="mailto:1080patelharshil@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&amp;logo=gmail&amp;logoColor=white" height="28" alt="Email" /></a>
+</p>
 
 <sub>B.Tech CSE · Class of 2028 · Bharuch, India</sub><br/>
 <strong>Open to SDE internships &amp; collaboration</strong>
