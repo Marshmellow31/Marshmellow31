@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=170&color=gradient&customColorList=6,11,20&text=Harshil%20Patel&fontSize=44&fontColor=ffffff&fontAlignY=35&desc=Full-Stack%20%26%20Android%20Engineer%20%E2%80%A2%20IIIT%20Vadodara&descSize=16&descAlignY=58" alt="Harshil Patel — Full-Stack and Android Engineer, IIIT Vadodara" width="100%" />
+<img src="assets/profile-banner.svg" alt="Harshil Patel — Full-Stack and Android Engineer, IIIT Vadodara" width="100%" />
 
 ### Building products. Contributing upstream.
 
